@@ -1,5 +1,5 @@
 # https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/
-
+# https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/discuss/1071247/Python-solution-got-faster-than-100-44ms-during-one-run-(but-it's-probably-luck-lol)
 class Solution:
     def minSubsequence(self, nums: List[int]) -> List[int]:
         if len(nums) == 1:

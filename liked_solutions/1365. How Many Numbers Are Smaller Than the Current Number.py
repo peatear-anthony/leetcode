@@ -1,4 +1,5 @@
 # https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
+# https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/discuss/936122/python-40ms-faster-than-9964
 
 class Solution:
     def smallerNumbersThanCurrent(self, nums: List[int]) -> List[int]:

@@ -1,4 +1,5 @@
 # https://leetcode.com/problems/find-common-characters/
+# https://leetcode.com/problems/find-common-characters/discuss/1053340/Python-Faster-than-98-Easy-to-Understand
 
 class Solution:
     def commonChars(self, A: List[str]) -> List[str]:
