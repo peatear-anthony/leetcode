@@ -1,5 +1,5 @@
 # https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/
-# https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/discuss/1108663/Python-solution
+# https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/discuss/1108663/Python-Solution-O(n)-Faster-than-92
 
 
 class Solution:
