@@ -1,4 +1,4 @@
-# https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/discuss/1110608/Python-Solution-Using-defaultdict-Faster-Than-100
+# https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/
 # https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/discuss/1110608/Python-Solution-Using-defaultdict-Faster-Than-100
 
 from collections import defaultdict
