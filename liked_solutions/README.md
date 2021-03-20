@@ -1,4 +1,4 @@
-## List of Liked Solutions:
+## Table of Liked Solutions:
 
 ### Last updated: 03-20-2021
 
