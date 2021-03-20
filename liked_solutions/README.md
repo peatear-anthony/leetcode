@@ -10,3 +10,6 @@
 | https://leetcode.com/problems/remove-outermost-parentheses/discuss/1020703/Python-simple-solution-with-explanation                                                             | 2               |
 | https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/discuss/936122/Python-40ms-faster-than-99.64                                                | 2               |
 | https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/discuss/1071247/Python-solution-got-faster-than-100-44ms-during-one-run-(but-it's-probably-luck-lol) | 1               |
+
+
+Data scraped via: https://github.com/peatear-anthony/leetcode-scraper
