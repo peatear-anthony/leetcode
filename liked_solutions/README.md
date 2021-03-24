@@ -10,8 +10,8 @@
 | https://leetcode.com/problems/remove-outermost-parentheses/discuss/1020703/Python-simple-solution-with-explanation                                                             | 2               |
 | https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/discuss/936122/Python-40ms-faster-than-99.64                                                | 2               |
 | https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/discuss/1071247/Python-solution-got-faster-than-100-44ms-during-one-run-(but-it's-probably-luck-lol) | 1               |
-|https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/discuss/1110571/Python-one-liner                                                                        | 1               |
-|https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/discuss/1115266/Python-Simple-Faster-than-90                                         | 1               |
+| https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/discuss/1110571/Python-one-liner                                                                        | 1               |
+| https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/discuss/1115266/Python-Simple-Faster-than-90                                         | 1               |
 
 
 
